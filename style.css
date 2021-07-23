@@ -19,7 +19,7 @@
   height: 100px;
   margin-inline: auto;
   display: flex;
-  column-gap: 30px;
+  column-gap: 1px;
   justify-content: center;
   align-items: center;
   color: #009edb;
@@ -30,7 +30,7 @@
   font-weight: 700;
 }
 .resource-plus-sign {
-  font-size: 7rem;
+  font-size: 3rem;
   padding-bottom: 20px;
 }
 .resource-number {
