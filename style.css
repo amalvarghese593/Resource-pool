@@ -27,12 +27,20 @@
 
 .resource-pool-extra h3 {
   font-size: 2rem;
-  font-weight: 700;
+  font-weight: 400;
+  color: #555555;
 }
 .resource-plus-sign {
   font-size: 3rem;
   padding-bottom: 20px;
 }
 .resource-number {
-  font-size: 4rem;
+  font-size: 4.5rem;
+}
+/* .resource-pool-extra img {
+  padding-top: 1rem;
+  width: 50px;
+} */
+.resource-pool-extra svg {
+  margin-bottom: 2rem;
 }
